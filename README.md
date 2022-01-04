@@ -1,16 +1,18 @@
-### Hi there 👋
+```Html
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+</head>
 
-<!--
-**Aggggsu/aggggsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<body>
+<h1>Хай! Меня зовут Андрей Швец</h1>
+<p>Начинающий веб-програмист, ютубер, и.т.д.
+На githubе с 2021 года.</p>
+</body>
+</html>
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![PacMan](https://img.shields.io/github/followers/Aggggsu?style=social)
+![PacMan](https://img.shields.io/github/stars/aggggsu?style=social)
