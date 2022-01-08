@@ -16,3 +16,11 @@
 
 ![PacMan](https://img.shields.io/github/followers/Aggggsu?style=social)
 ![PacMan](https://img.shields.io/github/stars/aggggsu?style=social)
+
+# Languages
+
+- Python
+- HTML
+- CSS
+
+
